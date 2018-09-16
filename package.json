@@ -19,7 +19,7 @@
     "typescript": "2.6.2"
   },
   "scripts": {
-    "ctm": "tsc && protractor ./ctm/web-smoke.js",
+    "ns": "tsc && protractor ./NaturalSpring/web-smoke.js",
     "selenium": "webdriver-manager start",
     "update": "webdriver-manager update",
     "clean": "webdriver-manager clean"

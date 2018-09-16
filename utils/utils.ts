@@ -21,8 +21,6 @@ export class Utils {
         return defferred.promise;
     }
 
-
-
     /**
      * @method clearStorage
      * @desc Clear browser's local storage and session storage

@@ -16,7 +16,7 @@ To start the selenium server (may require Java installed, if so install Java and
 # npm run selenium
 
 In seperate terminal to run the tests, this will compile and run the web-smoke.js file
-# npm ctm
+# npm run ns
 
 
 Report, and Screenshots for any failed tests will be stored in reports/ folder
